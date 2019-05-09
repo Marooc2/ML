@@ -1,0 +1,11 @@
+Para verificar en la línea de comandos si está instalado Python
+
+python --version
+
+Para verificar si está instalada pip
+
+pip --version
+
+Para instalar paquetes de trabajo
+
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose scikit-learn
